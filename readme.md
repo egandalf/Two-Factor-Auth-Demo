@@ -2,7 +2,7 @@
 
 A proof-of-concept for two-factor authentication using Ektron.
 
-Indluding:
+Including:
 * Knockout Validation
 * Twilio SMS Messaging
 * Username Availability
